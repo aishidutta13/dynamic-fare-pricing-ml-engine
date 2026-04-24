@@ -129,3 +129,11 @@ dynamic-fare-pricing-ml-engine/
 * Use advanced models such as Gradient Boosting or XGBoost
 * Deploy as an interactive web application
 * Improve robustness for extreme cases and outliers
+
+
+  ## Data Preprocessing Script
+
+This repository includes a preprocessing script:
+
+```bash
+python src/data_preprocessing.py
